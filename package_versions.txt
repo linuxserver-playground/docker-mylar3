@@ -129,7 +129,7 @@ natsort                  8.4.0             python
 ncurses-terminfo-base    6.6_p20260516-r0  apk                              
 netcat-openbsd           1.234.1-r0        apk                              
 nghttp2-libs             1.70.0-r0         apk                              
-nodejs                   24.22.1-r0        apk                              
+nodejs                   24.22.1-r1        apk                              
 oniguruma                6.9.10-r0         apk                              
 packaging                26.2              python                           
 packaging                26.3              python          (+1 duplicate)   
@@ -148,12 +148,12 @@ pygments                 2.21.0            python
 pyproject-hooks          1.2.0             python                           
 pysocks                  1.7.1             python                           
 pystun                   0.1.0             python                           
-python-dateutil          3.0.0             python                           
+python-dateutil          4.0.0             python                           
 python3                  3.14.10-r1        apk                              
 python3-pyc              3.14.10-r1        apk                              
 python3-pycache-pyc0     3.14.10-r1        apk                              
 pythoncapi_compat        UNKNOWN           UnknownPackage                   
-pytz                     2026.5            python                           
+pytz                     2026.6            python                           
 raqm                     0.11.0            python                           
 rarfile                  4.5               python                           
 readline                 8.3.3-r1          apk                              
