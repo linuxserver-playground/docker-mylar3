@@ -128,7 +128,7 @@ natsort                  8.4.0             python
 ncurses-terminfo-base    6.6_p20260516-r0  apk                              
 netcat-openbsd           1.234.1-r0        apk                              
 nghttp2-libs             1.70.0-r0         apk                              
-nodejs                   24.22.1-r1        apk                              
+nodejs                   24.22.3-r0        apk                              
 oniguruma                6.9.10-r0         apk                              
 packaging                26.3              python          (+2 duplicates)  
 pillow                   13.0.0            python          (+1 duplicate)   
@@ -140,7 +140,7 @@ portend                  3.2.1             python
 procps-ng                4.0.6-r0          apk                              
 pybind11                 UNKNOWN           python                           
 pyc                      3.14.10-r1        apk                              
-pycryptodome             4.4.0             python                           
+pycryptodome             4.5.0             python                           
 pydantic                 2.14.3            python                           
 pydantic-core            2.50.4            python                           
 pygments                 2.21.0            python          (+1 duplicate)   
@@ -169,7 +169,7 @@ simdutf                  9.0.0-r0          apk
 simplejson               4.3.0             python                           
 six                      1.17.0            python                           
 skalibs-libs             2.15.0.0-r0       apk                              
-soupsieve                4.1               python                           
+soupsieve                4.1.1             python                           
 sqlite-libs              3.53.4-r0         apk                              
 ssl_client               1.37.0-r31        apk                              
 tempora                  5.13.0            python                           
