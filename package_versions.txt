@@ -36,7 +36,8 @@ c-ares                   1.34.9-r0         apk
 ca-certificates          20261020-r0       apk                              
 ca-certificates-bundle   20261020-r0       apk                              
 catatonit                0.2.1-r0          apk                              
-certifi                  2026.10.23        python          (+1 duplicate)   
+certifi                  2026.10.23        python                           
+certifi                  2026.11.20        python                           
 cfscrape                 2.1.1             python                           
 charset-normalizer       3.5.2             python                           
 cheroot                  11.1.2            python                           
@@ -81,7 +82,7 @@ libattr                  2.5.2-r2          apk
 libavif                  1.4.2             UnknownPackage                   
 libbsd                   0.12.2-r0         apk             (+1 duplicate)   
 libbz2                   1.0.8-r6          apk                              
-libcrypto3               3.5.9-r0          apk                              
+libcrypto3               3.5.9-r1          apk                              
 libcurl                  8.23.0-r0         apk                              
 libexpat                 2.10.0-r0         apk                              
 libffi                   3.5.2-r1          apk                              
@@ -100,7 +101,7 @@ libpng                   1.6.59-r0         apk
 libproc2                 4.0.6-r0          apk                              
 libpsl                   0.21.5-r3         apk                              
 libsharpyuv              1.6.0-r0          apk                              
-libssl3                  3.5.9-r0          apk                              
+libssl3                  3.5.9-r1          apk                              
 libstdc++                15.2.0-r5         apk                              
 libtiff                  4.7.2             UnknownPackage                   
 libturbojpeg             3.1.3-r0          apk                              
@@ -140,9 +141,9 @@ portend                  3.2.1             python
 procps-ng                4.0.6-r0          apk                              
 pybind11                 UNKNOWN           python                           
 pyc                      3.14.10-r1        apk                              
-pycryptodome             4.5.0             python                           
-pydantic                 2.14.3            python                           
-pydantic-core            2.50.4            python                           
+pycryptodome             4.6.0             python                           
+pydantic                 2.14.4            python                           
+pydantic-core            2.50.5            python                           
 pygments                 2.21.0            python          (+1 duplicate)   
 pyproject-hooks          1.3.3             python                           
 pysocks                  1.7.1             python                           
@@ -169,7 +170,7 @@ simdutf                  9.0.0-r0          apk
 simplejson               4.3.0             python                           
 six                      1.17.0            python                           
 skalibs-libs             2.15.0.0-r0       apk                              
-soupsieve                4.1.1             python                           
+soupsieve                4.1.3             python                           
 sqlite-libs              3.53.4-r0         apk                              
 ssl_client               1.37.0-r31        apk                              
 tempora                  5.13.0            python                           
