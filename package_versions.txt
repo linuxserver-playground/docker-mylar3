@@ -39,7 +39,7 @@ catatonit                0.2.1-r0          apk
 certifi                  2026.10.23        python                           
 certifi                  2026.11.20        python                           
 cfscrape                 2.1.1             python                           
-charset-normalizer       3.5.2             python                           
+charset-normalizer       3.5.3             python                           
 cheroot                  11.1.2            python                           
 cherrypy                 18.10.0           python                           
 cli                      UNKNOWN           binary                           
@@ -84,8 +84,8 @@ libbsd                   0.12.2-r0         apk             (+1 duplicate)
 libbz2                   1.0.8-r6          apk                              
 libcrypto3               3.5.9-r1          apk                              
 libcurl                  8.23.0-r0         apk                              
-libexpat                 2.10.0-r0         apk                              
-libffi                   3.5.2-r1          apk                              
+libexpat                 2.11.0-r0         apk                              
+libffi                   3.8.1-r0          apk                              
 libgcc                   15.2.0-r5         apk                              
 libidn2                  2.3.8-r0          apk                              
 libimagequant            4.4.1             UnknownPackage                   
@@ -131,7 +131,8 @@ netcat-openbsd           1.234.1-r0        apk
 nghttp2-libs             1.70.0-r0         apk                              
 nodejs                   24.22.3-r0        apk                              
 oniguruma                6.9.10-r0         apk                              
-packaging                26.3              python          (+2 duplicates)  
+packaging                26.3              python          (+1 duplicate)   
+packaging                26.4              python                           
 pillow                   13.0.0            python          (+1 duplicate)   
 pip                      26.3              python                           
 pip                      UNKNOWN           UnknownPackage                   
@@ -140,7 +141,7 @@ platformdirs             4.4.0             python
 portend                  3.2.1             python                           
 procps-ng                4.0.6-r0          apk                              
 pybind11                 UNKNOWN           python                           
-pyc                      3.14.10-r1        apk                              
+pyc                      3.14.10-r2        apk                              
 pycryptodome             4.6.0             python                           
 pydantic                 2.14.4            python                           
 pydantic-core            2.50.5            python                           
@@ -149,9 +150,10 @@ pyproject-hooks          1.3.3             python
 pysocks                  1.7.1             python                           
 pystun                   0.1.0             python                           
 python-dateutil          4.0.0             python                           
-python3                  3.14.10-r1        apk                              
-python3-pyc              3.14.10-r1        apk                              
-python3-pycache-pyc0     3.14.10-r1        apk                              
+python3                  3.14.10-r2        apk                              
+python3-ndbm             3.14.10-r3        apk                              
+python3-pyc              3.14.10-r2        apk                              
+python3-pycache-pyc0     3.14.10-r2        apk                              
 pythoncapi_compat        UNKNOWN           UnknownPackage                   
 pytz                     2026.6            python                           
 raqm                     0.11.0            python                           
@@ -163,7 +165,7 @@ rich                     15.0.0            python          (+1 duplicate)
 scanelf                  1.3.9-r1          apk                              
 setuptools               70.3.0            python                           
 setuptools               84.2.1            python                           
-shadow                   4.18.0-r1         apk                              
+shadow                   4.20.4-r0         apk                              
 shellingham              1.5.4             python                           
 simdjson                 4.2.4-r0          apk                              
 simdutf                  9.0.0-r0          apk                              
@@ -197,4 +199,4 @@ zc-lockfile              4.1               python
 zipp                     3.23.0            python                           
 zlib                     1.4-r0            apk                              
 zlib                     2.3.3             UnknownPackage                   
-zstd-libs                1.5.7-r2          apk                              
+zstd-libs                1.6.0-r1          apk                              
